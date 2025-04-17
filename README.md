@@ -1,4 +1,4 @@
-# Desafio - Estatística para Devs - ROCKETSEAT
+# Desafio - Estatística para Devs - RocketSeat
 
 ## Descrição do Projeto
 
@@ -32,8 +32,12 @@ O projeto está estruturado em células de código e markdown, com as seguintes 
 1. Certifique-se de ter o Python instalado em sua máquina.
 
 2. Instale as bibliotecas necessárias, caso ainda não estejam instaladas:
-   ```bash
-   pip install pandas matplotlib
+
+```bash
+pip install pandas matplotlib
+
+```
+
 3. Para executar cada passo, clique no botão de play ao lado de cada célula
 
 *OBS.: Para melhor proveito, utilize o pipenv e instale um ambiente virtual*
